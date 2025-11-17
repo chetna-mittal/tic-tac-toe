@@ -1,1 +1,1 @@
-# celo-snakes
+# tic-tac-toe
